@@ -7,6 +7,4 @@
 <p4> Some general debugging. I noticed that the PacMen sometimes spawn on top of the buttons, making it impossible to click them if the game is paused. I'd also love to add a ghost collision detection where the PacMen organically despawn if they collide with a ghost. </p4>
 
 
-<p6> MIT License
 
-Copyright (c) MIT for Educational Purposes Only </p6>
